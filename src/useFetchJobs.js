@@ -8,7 +8,7 @@ const ACTIONS = {
   UPDATE_HAS_NEXT_PAGE: 'update-has-next-page'
 }
 
-const BASE_URL = '/positions.json'
+const BASE_URL = 'https://thingproxy.freeboard.io/fetch/https://jobs.github.com/positions.json'
 
 // https://cors-anywhere.herokuapp.com/
 
